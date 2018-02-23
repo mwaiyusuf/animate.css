@@ -1,0 +1,19 @@
+body{
+    background: black;
+}
+h1{
+    font-size: 150px;
+    font-family: 'Pacifico', cursive;
+}
+#a{
+    text-align: center;
+    margin-left: 260px;
+}
+p{
+    font-size: 32px;
+    font-family: 'Nanum Brush Script', cursive;
+    color: white;
+    margin-left: 34px;
+    margin-top: 65px;
+    
+}
