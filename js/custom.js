@@ -1,5 +1,4 @@
-function Sad(){
-  var x=prompt("Enter your name");
-    document.write(x+ "halllo");
+function(){
+    var x=prompt("Please enter your name");
+    document.write("Hallo " + name);
 }
-Sad()
