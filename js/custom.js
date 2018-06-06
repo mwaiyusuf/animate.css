@@ -9,7 +9,7 @@
 //5 }
 //custom function
 function calculate(){
-    
+  //store the data of the input  
 }
 // hide the tip amount on tip
 document.getElementbyid("totalTip").style.display="none";
