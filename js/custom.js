@@ -11,3 +11,4 @@
 document.getElementbyid("totalTip").style.display="none";
 document.getElementById("each").style.display="none";
 // clicking the button calls our custom function
+//document.getElementById("calculate").onclick= function () {calculateTotalTip ()};
