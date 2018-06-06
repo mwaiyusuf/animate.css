@@ -7,3 +7,5 @@
 //3 for (var i = 0; i < cells.length; i++) {
 //4   cells[i].style.backgroundColor = "pink";
 //5 }
+// hide the tip amount on tip
+document.getElementbyid("totalTip").style.display="none";
