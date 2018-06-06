@@ -9,3 +9,4 @@
 //5 }
 // hide the tip amount on tip
 document.getElementbyid("totalTip").style.display="none";
+document.getElementById("each")
