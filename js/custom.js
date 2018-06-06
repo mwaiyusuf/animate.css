@@ -8,6 +8,9 @@
 //4   cells[i].style.backgroundColor = "pink";
 //5 }
 //custom function
+function calculate(){
+    
+}
 // hide the tip amount on tip
 document.getElementbyid("totalTip").style.display="none";
 document.getElementById("each").style.display="none";
