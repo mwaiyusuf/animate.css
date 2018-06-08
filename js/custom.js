@@ -16,4 +16,4 @@
 //document.getElementById("each").style.display="none";
 //// clicking the button calls our custom function
 //document.getElementById("calculate").onclick= function () {calculateTip ()};
-//<img src="before-pic.jpg" onMouseover="src='after-pic.jpg'">
+<img src="/img">
