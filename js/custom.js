@@ -22,5 +22,5 @@
  }
  function sayBye() {
    alert("Buh-bye!");
-// }
-// </script>
+ }
+ </script>
