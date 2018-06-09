@@ -17,7 +17,7 @@
 //// clicking the button calls our custom function
 //document.getElementById("calculate").onclick= function () {calculateTip ()};
  <script>
-// function sayHi() {
+ function sayHi() {
 //   alert("Hello world!");
 // }
 // function sayBye() {
