@@ -20,7 +20,7 @@
  function sayHi() {
    alert("Hello world!");
  }
-// function sayBye() {
+ function sayBye() {
 //   alert("Buh-bye!");
 // }
 // </script>
