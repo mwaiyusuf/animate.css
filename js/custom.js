@@ -16,3 +16,11 @@
 //document.getElementById("each").style.display="none";
 //// clicking the button calls our custom function
 //document.getElementById("calculate").onclick= function () {calculateTip ()};
+ <script>
+// function sayHi() {
+//   alert("Hello world!");
+// }
+// function sayBye() {
+//   alert("Buh-bye!");
+// }
+// </script>
