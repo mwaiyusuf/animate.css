@@ -19,7 +19,7 @@
  <script>
  function sayHi() {
    alert("Hello world!");
-// }
+ }
 // function sayBye() {
 //   alert("Buh-bye!");
 // }
