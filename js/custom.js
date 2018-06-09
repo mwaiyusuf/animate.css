@@ -18,7 +18,7 @@
 //document.getElementById("calculate").onclick= function () {calculateTip ()};
  <script>
  function sayHi() {
-//   alert("Hello world!");
+   alert("Hello world!");
 // }
 // function sayBye() {
 //   alert("Buh-bye!");
