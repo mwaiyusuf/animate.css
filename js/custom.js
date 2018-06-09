@@ -21,6 +21,6 @@
    alert("Hello world!");
  }
  function sayBye() {
-//   alert("Buh-bye!");
+   alert("Buh-bye!");
 // }
 // </script>
