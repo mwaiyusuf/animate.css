@@ -4,3 +4,4 @@ used the animate.css and google fonts
 Animate.css
 #  fonts
 Google fonts
+# Technology Used
