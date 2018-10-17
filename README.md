@@ -6,4 +6,4 @@ Animate.css
 Google fonts
 # Technology Used
 1.Css
-2.
+2.HTML
