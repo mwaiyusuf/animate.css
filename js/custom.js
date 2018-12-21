@@ -24,34 +24,34 @@
 //   alert("Buh-bye!");
 // }
 // </script>
-function negposv(){
-  
- int[] numbers = (x , y, z);
-    var numbers=prompt("Enter 4 numbers");
- for(int i = 0; i < 4; i++)
-
-                {
-
-                if(numbers[i] < 0)
-
-                {
-
-                negative = negative + 1;
-
-                }
-
-                else
-
-                {
-
-                positive = positive + 1;
-
-                }
-
-            }
-
-             alert("Numbers of positive integers: " + positive);
-             alert("Numbers of negative integers: " + negative);
-  
-}
-negposv();
+//function negposv(){
+//  
+// int[] numbers = (x , y, z);
+//    var numbers=prompt("Enter 4 numbers");
+// for(int i = 0; i < 4; i++)
+//
+//                {
+//
+//                if(numbers[i] < 0)
+//
+//                {
+//
+//                negative = negative + 1;
+//
+//                }
+//
+//                else
+//
+//                {
+//
+//                positive = positive + 1;
+//
+//                }
+//
+//            }
+//
+//             alert("Numbers of positive integers: " + positive);
+//             alert("Numbers of negative integers: " + negative);
+//  
+//}
+//negposv();
