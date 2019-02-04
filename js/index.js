@@ -14,3 +14,17 @@
 //    
 //}
 //posneg();
+function spinWords(str){
+  var strArr = str.split(' ');
+  
+  strArr.forEach(function(word, index) {
+    if (word.length >= 5) {
+      strArr[index] = word.split('').reverse().join('');
+//    }
+//  })
+//  return strArr.join(' ');
+//}
+//
+//console.log(spinWords( "Hey fellow warriors" )); // "Hey wollef sroirraw" 
+//console.log(spinWords( "This is a test")); // "This is a test" 
+//console.log(spinWords( "This is another test" )); // "This is rehtona test"
