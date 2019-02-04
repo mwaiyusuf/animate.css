@@ -14,12 +14,12 @@
 //    
 //}
 //posneg();
-function spinWords(str){
-  var strArr = str.split(' ');
-  
-  strArr.forEach(function(word, index) {
-    if (word.length >= 5) {
-      strArr[index] = word.split('').reverse().join('');
+//function spinWords(str){
+//  var strArr = str.split(' ');
+//  
+//  strArr.forEach(function(word, index) {
+//    if (word.length >= 5) {
+//      strArr[index] = word.split('').reverse().join('');
 //    }
 //  })
 //  return strArr.join(' ');
